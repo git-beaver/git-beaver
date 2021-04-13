@@ -1,5 +1,5 @@
 ### Hi 👋
-### Welcome 희찌's git 
+### I'm ✨희찌✨
 
 [![git-beaver's GitHub stats](https://github-readme-stats.vercel.app/api?username=git-beaver&count_private=true&show_icons=true&theme=bue_fy)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=git-beaver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
